@@ -1,4 +1,4 @@
-# PetRock Custom Panel
+# Pet Rock Custom Panel
 
 This repository contains source files required for manufacturing the Custom Panel by Avalon Harmonics (Thorinair) for the awesome Pet Rock module by Jonah Senzel.
 
